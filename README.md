@@ -1,2 +1,9 @@
-# ARcard
-AR名刺 / Vuforia 
+## AR名刺
+
+### バージョン
+- Unity 2019.3.6f1
+- Vuforia 9.0.12 
+
+### 実行サンプル
+https://twitter.com/1191350572403707905/status/1242689873364111360
+
